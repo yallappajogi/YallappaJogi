@@ -1,6 +1,6 @@
 # Hey! 👋 I'm Yallappa  
 🌱 **Backend Developer | Java Enthusiast**  
-📧 **Email:** [yallappajogi40@gmail.com](mailto:yallappajogi40@gmail.com)  
+📧 **How to reach me** [yallappajogi40@gmail.com](mailto:yallappajogi40@gmail.com)  
 📄 **Resume:** [View Here](YOUR_RESUME_LINK)  
 💼 **LinkedIn:** [Yallappa Jogi](https://www.linkedin.com/in/yallappa-jogi-527255280/)  
 
