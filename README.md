@@ -1,14 +1,13 @@
 # Hey! 👋 I'm Yallappa
-🌱 Backend Developer | Java Enthusiast | Data Structures & Algorithms<br>
-📫 How to reach me: [yallappajogi40@gmail.com](mailto:yallappajogi40@gmail.com)
+# Hey! 👋 I'm Yallappa  
+🌱 **Backend Developer | Java Enthusiast | Data Structures & Algorithms**  
+📧 **How to reach me:** [yallappajogi40@gmail.com](mailto:yallappajogi40@gmail.com)  
+📄 **[Resume](YOUR_RESUME_LINK)** 
+💼 **[LinkedIn](https://www.linkedin.com/in/yallappa-jogi-527255280/)**  
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YallappaJogi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yallappa-jogi-527255280/) 
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yallappajogi40@gmail.com) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
