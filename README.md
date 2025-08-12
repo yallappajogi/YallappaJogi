@@ -1,7 +1,7 @@
 # Hey! 👋 I'm Yallappa  
 🌱 **Backend Developer | Java Enthusiast | Data Structures & Algorithms!🚀**  
 📧 **How to reach me** [yallappajogi40@gmail.com](mailto:yallappajogi40@gmail.com)  
-📄 **Resume:** [View Here](YOUR_RESUME_LINK)  
+📄 **Resume:** [View Here](https://drive.google.com/file/d/1swh9vMpNNTbYbQuVmiMs1kK342ISIjHF/view?usp=sharing)
 💼 **LinkedIn:** [Yallappa Jogi](https://www.linkedin.com/in/yallappa-jogi-527255280/)  
 
 ---
